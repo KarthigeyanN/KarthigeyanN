@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Inteligence and Machine Learning
 - 🌱 I’m currently learning Pytorch
 - 💞️ I’m looking to collaborate on Image recognition
-- 📫 How to reach me email
+- 📫 How to reach me email : karthi02@gmail.com
 
 <!---
 KarthigeyanN/KarthigeyanN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
