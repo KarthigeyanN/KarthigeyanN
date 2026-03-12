@@ -21,9 +21,9 @@ I’m deeply engaged in the intersection of Artificial Intelligence and Molecula
 ## Data Integrity & Custom File Parsing
 - Creating robust input pipelines for simulations and analysis
 - Validating structural data, formats, and metadata consistency
-
+---
 # 🎯 Guiding Philosophy
-I’m driven by a desire to make molecular modeling:
+>I’m driven by a desire to experience modeling:
 - More expressive — enabling richer visual and analytical exploration
 - More reproducible — through transparent, modular, open-source tooling
 - More accessible — lowering the barrier between complex data and scientific insight
