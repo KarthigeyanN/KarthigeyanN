@@ -2,7 +2,7 @@
 # Advancing Computational Chemistry Through Intelligent, Scalable Software
 I’m deeply engaged in the intersection of Artificial Intelligence and Molecular Modeling, building tools that accelerate discovery in Computational Chemistry and Drug Design. My work focuses on creating expressive, reproducible, and accessible systems that transform raw molecular data into scientific insight.
 
-(Website)(https://KarthigeyanN.github.io)
+[Website](https://KarthigeyanN.github.io)
 
 🔬 Core Interests & Focus Areas
 ## AI‑Driven Molecular Simulation
